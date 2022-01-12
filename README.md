@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishnukumarks03
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning data structures and algorithm
+- 🌱 I’m currently learning Devops, Cloud and DSA.
 - 💞️ I’m looking to collaborate on some personal projects
 - 📫 Reach me vishnukumarks013@gmail.com
 
